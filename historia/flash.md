@@ -1,2 +1,0 @@
-# Flash
-Falsh reverso
